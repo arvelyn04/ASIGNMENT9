@@ -1,0 +1,43 @@
+{ 
+
+    "NAME": "Arvelyn Ramos",
+    "LABEL": "Software Engineer",
+    "EMAIL": "ramosarvelynramos@gmail.com",
+    "CONTACT NUMBER": "09638966840",
+    "URL": "https://arvelyn_ramos.com",
+    "ADDRESS": "131 General Ricarte St. Brgy. San Juan",
+    "POSTAL CODE": "1900",
+    "CITY": "Cainta, Rizal",
+    "AGE": "25 years old",
+    "GENDER": "Female",
+    "CIVIL STATUS": "Single",
+    "NATIONALITY": "Filipino",
+    "HEIGHT": "5'9",
+    "WEIGHT": "49 KG",
+
+    "NAME OF THE COMPANY": "Apple Tech",
+    "POSITION": "Software Engineer/Mentor",
+    "COMPANY'S URL": "https://apple_tech.com",
+    "START DATE": "2065-05-12",
+    "END DATE": "2075-12-23",
+
+    "PROFILE1": " -Software engineer at Apple Tech, 5 years of being an software engineer.",
+    "PROFILE2": " -Usually do coding programming and debugging ",
+    "PROFILE3": " -Evaluate the software and systems that make computers and hardware work.",
+    "PROFILE4": "- Develops information systems by designing, developing, and installing software solutions.",
+    "PROFILE5": "- Develop existing programs by analysing and identifying areas for modification.",
+    "PROFILES": "- Improving system quality by identifying issues and common patterns, and developing standard operating.",
+
+    "ELEMENTARY": "Ateneo De Manila (2009-2015)",
+    "SECONDARY": "San Beda College (2015-2019)",
+    "SENIOR-HIGH": "AMA College (2019-2021)",
+    "TERTIARY": "Polytechnic University  of the Philippines",
+    
+    "SKILLS": "Web Developer",
+    "LEVEL": "Master",    
+    "KEYWORDS": "HTML,JAVASCRIPT,CSS,PYTHON",
+
+    "LANGUAGES": "English and Tagalog"
+
+    
+}
